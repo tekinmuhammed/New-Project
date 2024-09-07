@@ -1,0 +1,11 @@
+Running the Program
+Ensure your camera is working properly.
+
+Run the Python script:
+
+bash
+Kodu kopyala
+python virtual_keyboard.py
+A window will appear with a virtual keyboard and your hand gesture. You can "click" on keys by moving your hand over them and bending your index finger.
+
+To exit, press the 'd' key.
