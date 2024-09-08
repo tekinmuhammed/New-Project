@@ -1,4 +1,4 @@
-# Virtual Keyboard Using Hand Gestures
+# Virtual Keyboard Using Hand Gesture
 
 This project implements a virtual keyboard in Python where users can type using hand gestures detected by a camera. The project uses the Mediapipe library for hand tracking and OpenCV for image processing.
 
